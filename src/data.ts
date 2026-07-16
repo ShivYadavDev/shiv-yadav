@@ -61,7 +61,7 @@ export const educationList: EducationItem[] = [
   {
     id: "edu-neb",
     degree: {
-      en: "+2 Management",
+      en: "+2 science",
       np: "+२ व्यवस्थापन (Management)"
     },
     school: {
